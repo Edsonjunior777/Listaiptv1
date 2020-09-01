@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1, Canal Área Livre
 #EXTINF:-1 tvg-id="A e E" tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" group-title="Canais @ Variedades",A&E FHD
 http://esrv.cc:80/QOeLW9/92eK32/31467
 #EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" group-title="Canais @ Variedades",A&E FHD (H265)
